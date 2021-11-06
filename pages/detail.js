@@ -8,7 +8,7 @@ export default function detail() {
   return (
     <Layout>
       <Head>
-        <title>Detail &mdash; Jabutech</title>
+        <title>Detaila &mdash; Jabutech</title>
       </Head>
       <Container>
         <div className="md:w-6/12 w-full mx-auto flex items-center flex-col">
